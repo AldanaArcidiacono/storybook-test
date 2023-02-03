@@ -1,0 +1,38 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#eab1c6",
+    "activityBar.background": "#eab1c6",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#ebddd3",
+    "activityBarBadge.foreground": "#15202b",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#eab1c6",
+    "statusBar.background": "#dd5083",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#eab1c6",
+    "statusBarItem.remoteBackground": "#dd5083",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#dd5083",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#dd508399",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+
+  "peacock.color": "#dd5083",
+  "liveServer.settings.port": 5501,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+    },
+    "editor.formatOnSave": false
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+    },
+    "editor.formatOnSave": false
+  }
+}
