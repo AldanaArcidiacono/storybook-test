@@ -1,0 +1,11 @@
+.header {
+  background-color: brown;
+}
+
+.header__title {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header__user {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
